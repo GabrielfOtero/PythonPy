@@ -1,0 +1,4 @@
+
+ Data: Tuesday (Tue) 02/03/2021 11:23:40 AM - numeros da sorte: [5, 14, 22, 39, 44, 56]
+ Data: Monday (Mon) 05/07/2021 05:23:18 PM - numeros da sorte: [9, 28, 41, 42, 50, 56]
+ Data: Thursday (Thu) 15/07/2021 11:40:24 AM - numeros da sorte: [15, 23, 35, 41, 49, 55]
