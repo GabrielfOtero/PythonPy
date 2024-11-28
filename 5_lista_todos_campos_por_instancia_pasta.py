@@ -416,7 +416,7 @@ pasta="PowerCenter/etl1"
 pasta="PowerCenter/pwc_conjunto_completo_XML/ETL1"
 pasta="PowerCenter/pwc_conjunto_completo_XML/ETL2"
 pasta="PowerCenter/ESPA"
-pasta="PowerCenter"
+pasta="Python"
 
 for file_path in glob.glob(os.path.join(pasta, "*.xml")):
     print(os.path.basename(file_path))
